@@ -1,0 +1,94 @@
+.pa{
+  text-align: center;
+}
+
+p.pn{
+  text-align: center;
+  font-size: 25px;
+
+}
+
+p.pe{
+  text-align: center;
+  font-size: 25px;
+}
+
+div.center{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ip{
+  padding: 17px 85px;
+  background-color: royalblue;
+  color: #FFFFFF;
+  border: 5px solid #729FCF;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: 0.3s;
+  
+}
+.ip:hover {
+  opacity: 1
+}
+
+.doff{
+
+  background-color: lightblue;
+  width: 1525px;
+  height: 575px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 70px;
+  margin: 20px;
+  border-top: 20px solid #6C95E3;
+  border-bottom: 20px solid #6C95E3;
+  font-family: "Franklin Gothic Medium", sans-serif;
+
+  
+}
+
+.in:focus{
+  background-color: #ffff66;
+}
+
+.ie:focus{
+  background-color: #ffff66;
+
+}
+
+.in:hover{
+  background-color: lightgray;
+  transition: 0.2;
+}
+
+.in{
+  transition: 0.2s;
+  width: 230px;
+  height: 30px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-family: "Helvetica", sans-serif;
+
+}
+
+.labelnombre{
+
+}
+
+.ie:hover{
+  background-color: lightgray;
+  transition: 0.2;
+}
+
+.ie{
+  transition: 0.2s;
+  width: 230px;
+  height: 30px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-family: "Helvetica", sans-serif;
